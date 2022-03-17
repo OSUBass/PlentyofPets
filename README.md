@@ -1,6 +1,6 @@
 # plentyofpets
 
-A new Flutter project.
+Capstone project from senior year. Mobile app created with Flutter SDK with Dart that allows users to search for pets posted by local shelters.
 
 ## Getting Started
 
